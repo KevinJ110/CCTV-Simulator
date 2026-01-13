@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel-Pro: CCTV Training Simulator",
+  "description": "A high-fidelity security operator training game that uses AI to generate realistic surveillance scenarios and evaluate response protocols.",
+  "requestFramePermissions": []
+}
